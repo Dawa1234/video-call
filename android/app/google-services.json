@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637757903086",
+    "project_id": "fir-project-a5a80",
+    "storage_bucket": "fir-project-a5a80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637757903086:android:ff2146abb5435c10f623ff",
+        "android_client_info": {
+          "package_name": "com.loginregister.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637757903086-h6gbkp4jgtnhlgn91vpmq7tbt4l8g9t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCd_OBDOFmh2Sswg66xixpmsJVZSRjFvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637757903086-h6gbkp4jgtnhlgn91vpmq7tbt4l8g9t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
